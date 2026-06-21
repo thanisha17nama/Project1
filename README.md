@@ -44,8 +44,7 @@ Frontend Developer | Java Developer | ML Enthusiast
 
 GitHub: https://github.com/thanisha17nama
 
-LinkedIn: Add Your LinkedIn Profile Link
-
+LinkedIn: https://www.linkedin.com/in/thanisha-nama-523590331/
 ## Internship Project
 
 Developed as part of a Frontend Development Internship assignment.
