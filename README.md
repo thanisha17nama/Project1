@@ -1,2 +1,51 @@
-# Project1
-Responsive developer portfolio website built with HTML and CSS featuring projects, technical skills, education, and professional profiles.
+# Thanisha Nama Portfolio Website
+
+A responsive developer portfolio website built using HTML and CSS.
+
+## About
+
+This project showcases my:
+
+- Technical Skills
+- Projects
+- Education
+- Contact Information
+- GitHub and LinkedIn Profiles
+
+## Features
+
+- Responsive Design
+- Modern UI
+- Skills Section
+- Projects Showcase
+- Contact Section
+- Mobile Friendly Layout
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+
+## Project Structure
+
+Portfolio/
+│
+├── index.html
+├── style.css
+└── profile.jpg
+
+## Author
+
+Thanisha Nama
+
+Frontend Developer | Java Developer | ML Enthusiast
+
+GitHub: https://github.com/thanisha17nama
+
+LinkedIn: Add Your LinkedIn Profile Link
+
+## Internship Project
+
+Developed as part of a Frontend Development Internship assignment.
